@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu/dists/ precise main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/dists/ precise-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/dists/ precise-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/dists/ precise-backports main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/dists/ precise-proposed main restricted universe multiverse
